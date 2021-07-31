@@ -23,7 +23,7 @@ STEP11: Output(“Commission is $”, commission)
 STEP12: exit
 
 
-Program:
+//Program to solve the above given problem statement
 #include<stdio.h> 
  
 int main() 
